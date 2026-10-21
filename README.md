@@ -1,4 +1,4 @@
-# Sesli Agent 101 · Lab — Telefonla konuşan randevu asistanı
+# Telefonda Konuşan Yapay Zekâ · Lab — Telefonla konuşan randevu asistanı
 
 Bir diş kliniğinin telefon asistanı: arayanı Türkçe karşılar, boş saatleri takvimden bulur, randevuyu kaydeder,
 tıbbi soruda insana aktarır. Model **Gemini Live** (sesi dinler, sesle cevap verir); telefon tarafı **Twilio Media Streams**.
